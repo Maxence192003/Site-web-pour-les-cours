@@ -20,8 +20,7 @@ if (isset($_SESSION['username'])) {
 <body>
 <br>
 <a href="./ajouter.php">Ajouter</a>
-<a href="./ajouter.php">Modifier</a>
-<a href="./suprime.php">Supprimer</a>
+<a href="./lire.php">Modifier</a>
 <br>
 <a href="../index.php">Index</a>
 
